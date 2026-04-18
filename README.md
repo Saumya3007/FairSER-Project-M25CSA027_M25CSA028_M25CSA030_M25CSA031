@@ -1,7 +1,9 @@
 ﻿# FairSER: Speech Emotion Recognition Project
 
+## Hugging Face Model: https://huggingface.co/Saumya3007/spee_project_fairhindiser-clues
 ## Overview
 FairSER is a Speech Emotion Recognition (SER) project designed to identify emotions from speech data. The project includes various stages of training, evaluation, and inference, with a focus on fairness and robustness.
+
 
 ## Features
 - Multi-stage training pipeline with support for:
