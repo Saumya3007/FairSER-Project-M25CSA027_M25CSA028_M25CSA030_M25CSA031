@@ -3,3 +3,4 @@ data/
 .env
 *.wav
 results/tmp_rob/
+results/checkpoints/
