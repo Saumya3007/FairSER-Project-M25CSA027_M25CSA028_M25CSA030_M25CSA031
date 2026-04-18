@@ -1,0 +1,6 @@
+dimension,score
+Fairness,0.877
+Robustness,0.7654
+Explainability,0.9099
+Privacy,0.5946
+Audiotrust_Overall,0.7867

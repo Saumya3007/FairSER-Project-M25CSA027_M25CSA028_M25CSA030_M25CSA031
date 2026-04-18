@@ -1,0 +1,76 @@
+{
+  "stage": "full",
+  "fairness": {
+    "macro_f1": 0.7589,
+    "weighted_f1": 0.7686,
+    "accuracy": 0.7688,
+    "per_class_f1": {
+      "angry": 0.8247,
+      "happy": 0.74,
+      "neutral": 0.6701,
+      "sad": 0.8008
+    },
+    "per_class_precision": {
+      "angry": 0.8038,
+      "happy": 0.8449,
+      "neutral": 0.6293,
+      "sad": 0.7817
+    },
+    "per_class_recall": {
+      "angry": 0.8467,
+      "happy": 0.6583,
+      "neutral": 0.7167,
+      "sad": 0.8208
+    },
+    "language_f1": {
+      "english": 0.7123,
+      "hindi": 0.8117
+    },
+    "gender_f1": {
+      "female": 0.7138,
+      "male": 0.7099,
+      "unknown": 0.8117
+    },
+    "accent_f1": {
+      "american": 0.7123,
+      "hindi_iitkgp": 0.8117
+    },
+    "language_gap": 0.0994,
+    "gender_gap": 0.1018,
+    "accent_gap": 0.0994,
+    "group_fairness_gamma_language": 0.9006,
+    "group_fairness_gamma_gender": 0.8982,
+    "ece": 0.0496
+  },
+  "robustness": {
+    "scores": {
+      "clean": 0.7088,
+      "noise_20dB": 0.6224,
+      "noise_10dB": 0.4821,
+      "speed_slow": 0.6881,
+      "speed_fast": 0.6786,
+      "pitch_up": 0.7088,
+      "pitch_down": 0.7088
+    },
+    "mean_corrupted_f1": 0.6481,
+    "mean_drop": 0.0607
+  },
+  "explainability": {
+    "mean_salient_ratio": 0.9099,
+    "n_examples": 8
+  },
+  "privacy": {
+    "membership_inference_auc": 0.5896,
+    "train_confidence_mean": 0.8288,
+    "test_confidence_mean": 0.7919,
+    "confidence_gap": 0.0369,
+    "speaker_overlap": 1.0
+  },
+  "overall": {
+    "fairness_score": 0.877,
+    "robustness_score": 0.7654,
+    "explainability_score": 0.9099,
+    "privacy_score": 0.5946,
+    "audiotrust_overall": 0.7867
+  }
+}

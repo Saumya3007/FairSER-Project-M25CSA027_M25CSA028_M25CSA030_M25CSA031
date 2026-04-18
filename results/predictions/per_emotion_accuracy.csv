@@ -1,0 +1,5 @@
+true_emotion,total,correct,accuracy,mean_confidence
+angry,300,254,0.8467,0.7872
+happy,240,158,0.6583,0.8395
+neutral,180,129,0.7167,0.8488
+sad,240,197,0.8208,0.7313

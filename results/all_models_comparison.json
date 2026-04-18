@@ -1,0 +1,70 @@
+{
+  "head": {
+    "macro_f1": 0.5506,
+    "weighted_f1": 0.5738,
+    "accuracy": 0.5979,
+    "english_f1": 0.5739,
+    "hindi_f1": 0.4939,
+    "male_f1": 0.5286,
+    "female_f1": 0.6141,
+    "lang_gap": 0.08,
+    "gender_gap": 0.0855,
+    "per_class": {
+      "angry": 0.6656,
+      "happy": 0.5359,
+      "neutral": 0.2937,
+      "sad": 0.7071
+    }
+  },
+  "lora": {
+    "macro_f1": 0.6494,
+    "weighted_f1": 0.6626,
+    "accuracy": 0.6677,
+    "english_f1": 0.6218,
+    "hindi_f1": 0.6754,
+    "male_f1": 0.6056,
+    "female_f1": 0.6347,
+    "lang_gap": 0.0536,
+    "gender_gap": 0.0291,
+    "per_class": {
+      "angry": 0.7407,
+      "happy": 0.5463,
+      "neutral": 0.5304,
+      "sad": 0.7802
+    }
+  },
+  "clues": {
+    "macro_f1": 0.6515,
+    "weighted_f1": 0.6697,
+    "accuracy": 0.6708,
+    "english_f1": 0.6269,
+    "hindi_f1": 0.6532,
+    "male_f1": 0.6209,
+    "female_f1": 0.6307,
+    "lang_gap": 0.0263,
+    "gender_gap": 0.0098,
+    "per_class": {
+      "angry": 0.7695,
+      "happy": 0.6243,
+      "neutral": 0.4788,
+      "sad": 0.7335
+    }
+  },
+  "full": {
+    "macro_f1": 0.74,
+    "weighted_f1": 0.7495,
+    "accuracy": 0.749,
+    "english_f1": 0.7417,
+    "hindi_f1": 0.7425,
+    "male_f1": 0.7383,
+    "female_f1": 0.7443,
+    "lang_gap": 0.0008,
+    "gender_gap": 0.006,
+    "per_class": {
+      "angry": 0.8344,
+      "happy": 0.7022,
+      "neutral": 0.6831,
+      "sad": 0.7404
+    }
+  }
+}

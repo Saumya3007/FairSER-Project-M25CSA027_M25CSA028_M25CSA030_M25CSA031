@@ -1,0 +1,13 @@
+{
+  "best_val_f1": 0.725429368085237,
+  "best_params": {
+    "lr_head": 1.0838581269344744e-05,
+    "lr_transformer": 8.706020878304853e-05,
+    "lr_cnn": 4.6225890010208275e-06,
+    "batch": 16,
+    "weight_decay": 0.0003549878832196505,
+    "label_smooth": 0.045636336443930656,
+    "dropout": 0.3099025726528951,
+    "unfreeze_cnn": true
+  }
+}

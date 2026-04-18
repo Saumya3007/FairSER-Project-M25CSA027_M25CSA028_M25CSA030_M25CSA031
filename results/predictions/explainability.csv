@@ -1,0 +1,9 @@
+path,true,pred,salient_ratio
+/DATA/suraj/m2/FairSer/data/hindi_processed/hi_angry_5.4.sarcastic-05.wav,angry,angry,0.9636
+/DATA/suraj/m2/FairSer/data/english_processed/en_s1_Ses01F_impro03_F023.wav,neutral,neutral,0.77
+/DATA/suraj/m2/FairSer/data/hindi_processed/hi_angry_3.1.anger-10.wav,angry,angry,0.9696
+/DATA/suraj/m2/FairSer/data/hindi_processed/hi_sad_2.2.sad-04.wav,sad,sad,0.9586
+/DATA/suraj/m2/FairSer/data/english_processed/en_s2_Ses02M_script01_1_M004.wav,sad,sad,0.8684
+/DATA/suraj/m2/FairSer/data/hindi_processed/hi_sad_6.5.sad-02.wav,sad,sad,0.9292
+/DATA/suraj/m2/FairSer/data/english_processed/en_s1_Ses01M_script01_3_F024.wav,sad,sad,0.8624
+/DATA/suraj/m2/FairSer/data/english_processed/en_s3_Ses03F_impro07_F014.wav,happy,happy,0.9575

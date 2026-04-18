@@ -1,0 +1,5 @@
+_pycache_/
+data/
+.env
+*.wav
+results/tmp_rob/
